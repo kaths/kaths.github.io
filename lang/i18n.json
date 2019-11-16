@@ -1,0 +1,202 @@
+{
+  "i18nYoga": {
+    "en": "Yoga",
+    "el": "Γιόγκα"
+  },
+  "i18nHathaYoga": {
+    "en": "Hatha Yoga",
+    "el": "Χάθα Γιόγκα"
+  },
+  "i18nPilates": {
+    "en": "Pilates",
+    "el": "Πιλάτες"
+  },
+  "i18nClasses": {
+    "en": "Classes",
+    "el": "Πρόγραμμα"
+  },
+  "i18nInstructors": {
+    "en": "Instructors",
+    "el": "Εκπαιδευτές"
+  },
+  "i18nChristos": {
+    "en": "Christos Fydanis",
+    "el": "Χρήστος Φυδάνης"
+  },
+  "i18nIoanna": {
+    "en": "Ioanna Mitrousi",
+    "el": "Ιωάννα Μητρούση"
+  },
+  "i18nGallery": {
+    "en": "Gallery",
+    "el": "Συλλογή"
+  },
+  "i18nPhotos": {
+    "en": "Photos",
+    "el": "Φωτογραφίες"
+  },
+  "i18nVideos": {
+    "en": "Videos",
+    "el": "Βίντεο"
+  },
+  "i18nContact": {
+    "en": "Contact",
+    "el": "Επικοινωνία"
+  },
+  "i18nIntro1": {
+    "en": "A group of happy people with common denominator their great love for cats decided to join forces and create a space dedicated to the soul and body",
+    "el": "Μια ομάδα κουζουλών με κοινό παρονομαστή την μεγάλη αγάπη της για τις γάτες πήρε την απόφαση να ενώσει τις δυνάμεις της και να φτιάξει έναν χώρο αφιερωμένο στην ψυχή και στο σώμα"
+  },
+  "i18nIntro2": {
+    "en": "So Namaste!!",
+    "el": "Και έτσι Namaste!!"
+  },
+  "i18nIntro3": {
+    "en": "Ready to laugh, have fun, open our horizons, give and receive love",
+    "el": "Έτοιμοι να γελάσουμε, να διασκεδάσουμε, να ανοίξουμε τους ορίζοντές μας, να δώσουμε και να λάβουμε αγάπη"
+  },
+  "i18nIntro4": {
+    "en": "In our place you will be able to attend yoga classes, pilates mat, aerial yoga, aerial pillates, yoga partner, pre/post natal yoga",
+    "el": "Στον χώρο μας θα μπορείς να έχεις συμμετοχή σε μαθήματα yoga, pilates mat, aerial yoga, aerial pilates, partner yoga, pre-post natal yoga"
+  },
+  "i18nIntro5": {
+    "en": "In case you need to relax and unwind the tensions there is nothing better than giving yourself the opportunity to experience the beneficial properties of Thai massage",
+    "el": "Και αν έχεις την ανάγκη να χαλαρώσεις και να απεγλωβίσεις τις εντάσεις δεν υπάρχει τίποτα καλύτερο από το να δώσεις στον εαυτό σου την ευκαιρία να γνωρίσει τις ευεργετικές ιδιότητες της ταϋλλανδέζικης μάλαξης"
+  },
+  "i18nIntro6": {
+    "en": "We are a Social Cooperative Enterprise, we work together daily and develop solid partnerships with all of you",
+    "el": "Είμαστε Κοινωνική Συνεταιριστική Επιχείρηση, συνεργαζόμαστε καθημερινά μεταξύ μας και αναπτύσσουμε γερές συνεργασίες με όλους εσάς"
+  },
+  "i18nIntro7": {
+    "en": "With love,",
+    "el": "Με αγάπη,"
+  },
+  "i18nHatha1": {
+    "en": "The long history of yoga begun its journey many years ago, almost 5.000, according to researchers. It is a gift that India has offered to our world and has nothing to do with religions, ideologies and dogmas. Consider that if it was something unobtrusive and unfounded it would have long been lost in   history. Instead, it is evolving year by year, new scientific research proves its multiple benefits on a psychosomatic level, and new types are still emerging based on Hatha yoga",
+    "el": "Η μακράν ιστορία της yoga ξεκινάει το ταξίδι της πολλά χρόνια πριν, περίπου 5.000 σύμφωνα με τους ερευνητές. Είναι ένα δώρο που προσέφερε η Ινδία στον κόσμο μας και δεν έχει να κάνει με θρησκείες, ιδεοληψίες και δογματισμούς. Αν το καλό σκεφτείς, αν ήταν κάτι ευτελές και αβάσιμο θα είχε προ πολλού χαθεί, στο βάθος της ιστορίας μας. Αντ’ αυτού, χρόνο με τον χρόνο εξελίσσεται, νέες επιστημονικές έρευνες αποδεικνύουν τα πολλαπλά οφέλη της σε ψυχοσωματικά επίπεδα και δημιουργούνται νέα είδη, με κορμό πάντα, την Hatha yoga"
+  },
+  "i18nHatha2": {
+    "en": "Hatha Yoga was originally started by exploring the connection of the mind to the body. Old yoga masters worked on this and created practices and techniques that can rejuvenate the body and lead to longevity. Personally, I highlight three key parts that help and enhance the path:",
+    "el": "Η Hatha Yoga ξεκίνησε αρχικά από την διερεύνηση της σύνδεσης του μυαλού με το σώμα. Οι παλιοί masters της yoga δούλεψαν πάνω σε αυτό και δημιούργησαν πρακτικές και τεχνικές που μπορούν να αναζωογονήσουν το σώμα και να οδηγήσουν στην μακροζωία.  Προσωπικά ξεχωρίζω τρία βασικά μέρη που βοηθούν και ενισχύουν το μονοπάτι:"
+  },
+  "i18nHatha3": {
+    "en": "The kriya techniques, which detoxify the body, give a sense of inner purity and help in the treatment of diseases",
+    "el": "Οι τεχνικές kriya, που  αποτοξινώνουν το σώμα, δίνουν μια αίσθηση εσωτερικής καθαρότητας και βοηθούν στην αντιμετώπιση ασθενειών"
+  },
+  "i18nHatha4": {
+    "en": "Asanas, body postures during our practice that strengthen but at the same time offer flexibility, which will lead us to a condition where we can meditate for as long as possible",
+    "el": "Οι asanas, οι στάσεις του σώματος κατά την διάρκεια της πρακτικής μας που ενδυναμώνουν αλλά συνάμα προσφέρουν ευλυγισία και ευκαμψία ώστε να μας οδηγήσουν στην συνθήκη όπου θα μπορούμε να διαλογιστούμε για όσο το δυνατόν περισσότερη ώρα"
+  },
+  "i18nHatha5": {
+    "en": "Meditation is the primary and primary cause of asanas. The old yogi had realized how important it was to invest in it and they wanted to keep it healthy. Some of its main benefits are to reduce stress and improve concentration and relaxation ability",
+    "el": "Ο διαλογισμός, είναι η πρωταρχική και κύρια αιτία που δημιουργήθηκαν οι asanas. Οι παλιοί yogi είχαν συνειδητοποιήσει πόσο σημαντικό είναι να επενδύεις πάνω του και για αυτό ήθελαν να διατηρούνται υγιείς. Μερικά από τα κύρια οφέλη του είναι η μείωση του άγχους και η βελτίωση της συγκέντρωσης και της ικανότητας της χαλάρωσης"
+  },
+  "i18nHatha6": {
+    "en": "There are many things I would like to write about this unique and complete holistic system that combines not only physical exercise but also spiritual, not only proper nutrition but also the rules a person must follow in order to be proper and productive for his society",
+    "el": "Υπάρχουν πολλά πράγματα που θα ήθελα να γράψω για αυτό το μοναδικό και πλήρες ολιστικό σύστημα που συνδυάζει όχι μόνο την σωματική άσκηση αλλά και την πνευματική, όχι μόνο την σωστή διατροφή αλλά και τους κανόνες που πρέπει να ακολουθεί ένας άνθρωπος ώστε να είναι σωστός και παραγωγικός για την κοινωνία του"
+  },
+  "i18nHatha7": {
+    "en": "If the time has come when the concept of wellness is not just a vague term or word you hear around, yoga is here to lead you to a wonderful world of love not only for your body but for the whole. There are no limits of age, weight, appearance or whatever you want to call it. If you face a long-term malady, yoga will work in addition to treating it, just as it did with me",
+    "el": "Αν ήρθε η ώρα που η έννοια της ευεξίας δεν είναι απλά ένας αόριστος όρος ή μια λέξη που ακούς εδώ και εκεί, η yoga είναι εδώ να σε οδηγήσει σε έναν υπέροχο κόσμο αγάπης όχι μόνο για το σώμα σου αλλά και για το όλον. Δεν υπάρχουν όρια ηλικίας, κιλών, εμφάνισης ή όπως αλλιώς θέλεις να το ονομάσεις. Αν έχεις κάποια μακροχρόνια πάθηση η yoga θα λειτουργήσει συμπληρωματικά στην αντιμετώπιση της, όπως ακριβώς έγινε και με εμένα"
+  },
+  "i18nHatha8": {
+    "en": "The real Guru is the practice itself, and that does not change",
+    "el": "O πραγματικός Guru είναι η ίδια η πρακτική, κανένας άλλος"
+  },
+  "i18nPartner1": {
+    "en": "Partner Yoga or otherwise yoga for two or more people is a game of cooperation and trust that works with the basic principle of yoga: the Union",
+    "el": "Η Partner Yoga ή αλλιώς yoga για δύο ή περισσότερα άτομα είναι ένα παιχνίδι συνεργασίας και εμπιστοσύνης που δουλέυει με τη βασική αρχή της yoga: την Ένωση"
+  },
+  "i18nPartner2": {
+    "en": "Through movement, posture, breathing and touch we learn better about ourselves, create shared moments and experience what it is like to give and receive. It helps us to get a more childish approach to things and to enjoy our time with our people more",
+    "el": "Μέσω της κίνησης, των θέσεων, της αναπνοής και του αγγίγματος μαθαίνουμε καλύτερα τον εαυτό μας, δημιουργούμε κοινές στιγμές και βιώνουμε το πώς είναι να δίνουμε και να παίρνουμε. Μας βοηθάει να αποκτούμε μια προσέγγιση περισσότερο παιδική απέναντι στα πράγματα και να απολλαμβάνουμε περισσότερο τις στιγμές μας με τους ανθρώπους μας"
+  },
+  "i18nPartner3": {
+    "en": "One of its key benefits is to improve self-esteem, confidence and balance as when working together for a common cause and supporting one another we can go one step further, let alone when we trust our body in the hands of the partner. us and his own to us",
+    "el": "Ένα από τα βασικά οφέλη της είναι η βελτίωση της αυτογνωσίας, της εμπιστοσύνης και της ισορροπίας μιας και όταν συνεργαζόμαστε για έναν κοινό σκοπό και υποστηρίζουμε ο ένας τον άλλον μπορούμε να πάμε και ένα βήμα παραπέρα, πόσο μάλλον όταν εμπιστευόμαστε το σώμα μας στα χέρια του partener μας και εκείνος το δικό του σε εμάς"
+  },
+  "i18nPartner4": {
+    "en": "Many times the rhythms of everyday life are at our disposal, and as we grow older we forget the most important: how beautiful it is to be a child and to let yourself enjoy every moment",
+    "el": "Πολλές φορές οι ρυθμοί της καθημερινότητας επιδρούν στη διάθεσή μας και όσο μεγαλώνουμε ξεχνάμε το πιο σημαντικό: πόσο όμορφο είναι να χαίρεσαι σα παιδί και να αφήνεις τον εαυτό σου ελεύθερο να απολαύσει την κάθε του στιγμή"
+  },
+  "i18nPartner5": {
+    "en": "This lesson is for all those who, above all, want to keep their child active. We will try, we will laugh, we will share and above all our goal is to have fun",
+    "el": "Αυτό το μάθημα είναι για όλους εκείνους που πάνω από όλα θέλουν να κρατάνε ενεργό το παιδί μέσα τους. Θα δοκιμάσουμε, θα γελάσουμε, θα μοιραστούμε και πάνω από όλα στόχος μας είναι να το διασκεδάσουμε"
+  },
+  "ie18nChristosIoanna": {
+    "en": "Christos and Ioanna",
+    "el": "Χρήστος και Ιωάννα"
+  },
+  "i18nPilates1": {
+    "en": "If you asked me to describe the Pilates method in a nutshell, I wouldn't know where to start. Because for me it is not just an exercise, it is above all a feeling, an attitude of life, my personal way of meditating on myself and overcoming obstacles. I have decided to write a text in which I simply do not want to say it's a fitness method, Ι want to see something beyond that",
+    "el": "Αν μου ζητούσατε να περιγράψω με λίγα λόγια τη μέθοδο Pilates ειλικρινά δεν θα ήξερα από που να το πρωτοπιάσω. Λόγω του οτι για εμένα δεν είναι απλά μια άσκηση ,είναι πάνω από όλα ένα συναίσθημα,μια στάση ζωής, ο προσωπικός μου τρόπος να διαλογίζομαι με τον εαυτό μου και να προσπερνώ τα εμπόδια. Αποφάσισα να γράψω ένα κείμενο μέσα στο οποίο δε θέλω απλά να σας πω οτι είναι μια μέθοδος εκγύμνασης, θέλω να δείτε κάτι πέρα από αυτό"
+  },
+  "i18nPilates2": {
+    "en": "Joseph Hubertus Pilates was born in 1883 in Germany. From childhood he suffered from asthma, rickets and rheumatic fever and fought all his life to overcome his problems and strengthen his sick body. From a young age he was involved in sports and was a keen diver, skier, as well as hobbyist yoga practicioner. At the age of only 14 he was already posing for anatomical maps and by the early 1900s he had already begun to create his own system of exercises, the Art of Control as he originally called it",
+    "el": "Ο Joseph Hubertus Pilates γεννήθηκε το 1883 στη Γερμανία. Υπήρξε ένα παιδί που έπασχε από άσθμα, ραχίτιδα και ρευματικούς πυρετούς και πάλεψε όλη του τη ζωή ώστε να καταφέρει να ξεπεράσει τα προβλήματά του και να δυναμώσει το ασθενικό του σώμα.Από μικρός ασχολήθηκε με την άθληση και υπήρξε δεινός δύτης, σκιερ, πυγμάχος, γυμναστής καθώς ασχολήθηκε πολύ και με τη γιόγκα. Σε ηλικία μόλις 14 ετών πόζαρε ήδη για ανατομικούς χάρτες και από τις αρχές του 1900 είχε αρχίσει ήδη να δημιουργεί το δικό του σύστημα ασκήσεων, την Τέχνη του Ελέγχου όπως αρχικά ο ίδιος την αποκαλούσε"
+  },
+  "i18nPilates3": {
+    "en": "I won't tell you more about his amazing story, you can look it up, what I wanted to emphasize above is that a man with innumerable problems never put it down, learned to fight for the best and learned to control his mind and his body and I am very moved by that. It shows the power of the soul. Never ever consider yourself inadequate or old enough, the creator of the Method teaches himself that anything can happen as long as you want it. After all, as he very wisely said, 'We are as young as our spine is new.'",
+    "el": "Δεν θα σας πω άλλα για την καταπληκτική του ιστορία, μπορείτε να την ψάξετε, αυτό που ήθελα να τονίσω παραπάνω είναι το οτι ένας άνθρωπος με χίλια δυο προβλήματα δεν το έβαλε ποτέ κάτω, έμαθε να παλεύει για το καλύτερο και έμαθε να ελέγχει το μυαλό του και έπειτα το σώμα του και έναι πολύ συγκινητικό αυτό. Δείχνει δύναμη ψυχής. Ποτέ μα ποτέ μην θεωρήσετε τον εαυτό σας ανεπαρκή για να ασκηθείτε ή μεγάλο σε ηλικία, αυτό σας διδάσκει ο ίδιος ο δημιουργός της Μεθόδου, οτι όλα μπορούν να συμβούν αρκεί να το θέλετε. Εξάλλου όπως πολύ σοφά είχε πει, «Είμαστε τόσο νέοι, όσο νέα είναι η σπονδυλική μας στήλη»"
+  },
+  "i18nPilates4": {
+    "en": "Pilates Matwork is a series of stretching and strengthening exercises performed on the ground following the principles of Control, Breathing, Concentration, Center, Liquidity, Accuracy, Imagination and Intuition. redefine the body and start from the abdominal, waist, hip and buttocks muscles (the center of power production). They are done either with our own body guide or with the help of some props",
+    "el": "Το Pilates Matwork είναι μια σειρά ασκήσεων διάτασης και ενδυνάμωσης που εκτελούνται στο έδαφος ακολουθώντας τις αρχές του Ελέγχου, της Αναπνοής, της Συγκέντρωσης,του Κέντρου, της Ρευστότητας, της Ακρίβειας, της Φαντασίας και της Διάισθησης.Όλες οι θέσεις έχουν ως στόχο την ορθοσωμία, τον επαναπροσδιορισμό του σώματος και ξεκινούν από τους μυς της κοιλιακής χώρας, της μέσης, των ισχίων και των γλουτών(το κέντρο παραγωγής της δύναμης). Πραγματοποιούνται είτε με μοναδικό οδηγό το σώμα μας είτε με τη βοήθεια κάποιων props"
+  },
+  "i18nPilates5": {
+    "en": "Don't underestimate the power of the mattress and the resistance your body can create, you'll be amazed at what you can accomplish with consistency, love and repetition",
+    "el": "Μην υποτιμάτε τη δύναμη του στρώματος και της αντίστασης που μπορεί να δημιουργήσει το ίδιο σας το σώμα, θα εκπλαγείτε από το τι μπορείτε να κατορθώσετε με συνέπεια, αγάπη και επανάληψη"
+  },
+  "i18nAerial1": {
+    "en": "Aerial Yoga and Aerial Pilates are two very popular exercise types that combine the benefits of Yoga and Pilates with swing and weight loss and are performed with the help of a hammock that stands a weight of up to 400 kg",
+    "el": "Η Aerial Yoga και το Aerial Pilates είναι δύο πολύ διαδεδομένα είδη άσκησης που συνδυάζουν τα πλεονεκτήματα της Yoga και του Pilates με την αιώρηση και την έλλειψη βαρύτητας και εκετελούνται με τη βοήθεια μιας αιώρας που αντέχει βάρος μέχρι 400 κιλά"
+  },
+  "i18nAerial2": {
+    "en": "It's all about getting the air out of the hammock and have fun, and don't forget that many exercises are also done on the ground with the hammock working in a supportive way making it easier to achieve positions that might be difficult before",
+    "el": "Το παν είναι να πάρεις τον αέρα του πανιού και να το διασκεδάσεις και μην ξεχνάς πως πολλές ασκήσεις γίνονται και στο έδαφος με το πανί να λειτουργεί υποστηρικτικά διευκολύνοντάς σε να μπεις σε θέσεις που ίσως πριν δυσκολευόσουν"
+  },
+  "i18nAerial3": {
+    "en": "The Benefits of Hammock? Many, with one of the most important being the decompression of the spine and the strengthening of the body. It also relaxes muscle tension, overcomes fears, increases self-esteem, improves our reflexes, our balance and flexibility, acts anti-aging and above all, entertains us",
+    "el": "Τα οφέλη του πανιού; Πολλά, με ένα από τα σημαντικότερα την αποσυμπίεση της σπονδυλικής στήλης και την ενδυνάμωση του σώματος. Επίσης χαλαρώνει την μυϊκή ένταση, υπερνικά τους φόβους, αυξάνει την αυτοεκτίμηση, βελτιώνει τα αντανακλαστικά μας, την ισορροπία μας και την ευλυγισία μας, δρα αντιγηραντικά και πάνω από όλα μας διασκεδάζει"
+  },
+  "i18nAerial4": {
+    "en": "At Aerial Yoga you will combine yoga, fun and acrobatics. Furthermore, with Aerial Pilates you will see a variation of the classical pilates repertoire in and out of the hammock",
+    "el": "Στην Aerial Yoga θα συνδυάσεις yoga, διασκέδαση και ακροβατικά και στο Aerial Pilates θα δεις μια παραλλαγή του κλασσικού ρεπερτορίου του pilates εντός και εκτός αιώρας"
+  },
+  "i18nAerial5": {
+    "en": "We need to emphasize that this type of exercise is aimed at everyone regardless of age and can be started without any prior knowledge. It is contraindicated in people with hypertension, glaucoma, as well as people who have recently undergone surgery",
+    "el": "Αυτό που χρειάζεται να τονίσουμε είναι πως το συγκεκριμένο είδος άσκησης απευθύνεται σε όλους ανεξαρτήτως ηλικίας και μπορεί κανείς να ξεκινήσει χωρίς να έχει προηγούμενες γνώσεις. Αντενδείκτυται σε ανθρώπους με υπέρταση, γλάυκωμα, καθώς και σε άτομα που πρόσφατα έχουν υποβληθεί σε χειρουργική επέμβαση"
+  },
+  "i18nAerial6": {
+    "en": "Don't hesitate, learn to overcome your fear and let yourself feel the beauty and freedom that swing offers",
+    "el": "Μην διστάζεις, μάθε να νικάς τον φόβο σου και άσε τον εαυτό σου να νιώσει την ομορφιά και την ελευθερία που προσφέρει η αιώρηση"
+  },
+  "i18nPostcode": {
+    "en": "73131 Agios Nikoalos",
+    "el": "73131 Άγιος Νικόλαος"
+  },
+  "i18nAddress": {
+    "en": "4 Skordylon",
+  "el": "Σκορδυλών 4"
+  },
+  "i18nName": {
+    "en": "Name",
+    "el": "Όνομα"
+  },
+  "i18nSend": {
+    "en": "Send",
+    "el": "Αποστολή"
+  },
+  "i18nLanguage": {
+    "en": "Select language",
+    "el": "Επιλογή γλώσσας"
+  },
+  "i18nEnglish": {
+    "en": "English",
+    "el": "Αγγλικά"
+  },
+  "i18nGreek": {
+    "en": "Greek",
+    "el": "Ελληνικά"
+  }
+}

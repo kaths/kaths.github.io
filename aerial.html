@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Catis Yoga & Pilates</title>
+    <meta name="description" content="Catis yoga για να σας τρελανουμε, στον Άγιο Νικόλαο στο παλιό ΤΕΕ.">
+    <meta name="keywords" content="Yoga, Hatha, Classical Pilates, Prenatal, Postnatal, Aerial, Thai massage, Christos Fydanis, Ioanna Mitrousi, Catis Yoga, Catis Pilates, Catis Yoga & Pilates, Γιόγκα, Πιλάτες, Χάθα, Χρήστος Φυδάνης, Ιωάννα Μητρούση, Άγιος Νικόλαος, Κέντρο, Τ.Ε.Ε.">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.css" media="screen,projection" />
+    <link type="text/css" rel="stylesheet" href="css/main.css" media="screen,projection" />
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+
+<body onload="loadTranslations()">
+    <header>
+        <ul id="languageSelector" class="dropdown-content">
+            <li><a onclick="setLanguage('en')"><i class="flag-icon flag-icon-gb"></i><span
+                        id="i18nEnglish">English</span></a></li>
+            <li class="divider"></li>
+            <li><a onclick="setLanguage('el')"><i class="flag-icon flag-icon-gr prefix"></i><span
+                        id="i18nGreek">Greek</span></a></li>
+        </ul>
+        <nav class="top-nav">
+            <div class="container">
+                <div class="nav-wrapper">
+                    <div class="row">
+                        <div class="col s12 m10 offset-m1">
+                            <a class="brand-logo left">Catis Yoga & Pilates</a>
+                            <ul class="right hide-on-med-and-down">
+                                <li><a class="dropdown-trigger" href="#!" data-target="languageSelector">Language<i
+                                            class="material-icons right">language</i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        <div class="container"><a href="#" data-target="nav-mobile"
+                class="top-nav sidenav-trigger full hide-on-large-only"><i class="material-icons">menu</i></a></div>
+        <ul id="nav-mobile" class="sidenav sidenav-fixed">
+            <a id="logo-container" href="/">
+                <div class="logo">
+                    <a id="logo-container" href="/">
+                        <img class="responsive-img " src="img/logo.png" alt="Catis yoga & pilates">
+                    </a>
+                </div>
+            </a>
+            
+            <li class="bold">
+                <ul class="collapsible collapsible-accordion">
+                    <li class="bold"><a class="collapsible-header waves-effect waves-teal">Yoga</a>
+                        <div class="collapsible-body">
+                            <ul>
+                                <li><a href="hatha-yoga.html">Hatha Yoga</a></li>
+                                <li><a href="partner-yoga.html">Partner Yoga</a></li>
+                            </ul>
+                        </div>
+                    </li>
+
+                    <li class="bold no-padding"><a href="pilates.html"
+                            class="collapsible-header waves-effect waves-teal">Pilates</a></li>
+
+                    <li class="bold no-padding active"><a href="aerial.html"
+                            class="collapsible-header waves-effect waves-teal">Aerial Yoga & Pilates</a></li>
+
+                    <!-- <li class="bold"><a id="i18nEvents" class="collapsible-header waves-effect waves-teal">Events</a>
+                        <div class="collapsible-body">
+                            <ul>
+                                <li><a id="i18nscheduled-events" href="sheduled-events.html">Scheduled</a></li>
+                                <li><a id="i18npast-events" href="past-events.html">Past</a></li>
+                            </ul>
+                        </div>
+                    </li> -->
+                    <li class="bold no-padding"><a id="i18nClasses" href="schedule.html"
+                            class="collapsible-header waves-effect waves-teal">Classes</a></li>
+                    <li class="bold"><a id="i18nInstructors"
+                            class="collapsible-header waves-effect waves-teal">Instructors</a>
+                        <div class="collapsible-body">
+                            <ul>
+                                <li><a id="i18nChristos" href="christos.html">Christos Fydanis</a></li>
+                                <li><a id="i18nIoanna" href="ioanna.html">Ioanna Mitrousi</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="bold"><a id="i18nGallery" class="collapsible-header waves-effect waves-teal">Gallery</a>
+                        <div class="collapsible-body">
+                            <ul>
+                                <li><a id="i18nPhotos" href="photos.html">Photos</a></li>
+                                <li><a id="i18nVideos" href="videos.html">Videos</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </li>
+            <li class="bold"><a id="i18nContact" href="contact.html"
+                    class="collapsible-header waves-effect waves-teal">Contact</a></li>
+            <li class="bold hide-on-large-only">
+                <a id="showinenglish" onclick="setLanguage('en')"><span class="flag-icon flag-icon-gb"></span></a>
+                <a id="showingreek" onclick="setLanguage('el')"><span class="flag-icon flag-icon-gr"></span></a>
+            </li>
+        </ul>
+    </header>
+    <main>
+        <div class="section no-pad-bot" id="index-banner">
+            <div class="container">
+                <div class="row center">
+                    <div class="col s12 m10 offset-m1 left-align">
+                        <h4 id="title" class="header">Aerial Yoga & Pilates</h4>
+                        <p id="i18nAerial1">Aerial Yoga and Aerial Pilates are two very popular exercise types that combine the benefits of Yoga and Pilates with swing and weight loss and are performed with the help of a hammock that stands a weight of up to 400 kg</p>
+                        <p id="i18nAerial2">It's all about getting the air out of the hammock and have fun, and don't forget that many exercises are also done on the ground with the hammock working in a supportive way making it easier to achieve positions that might be difficult before</p>
+                        <p id="i18nAerial3">The Benefits of Hammock? Many, with one of the most important being the decompression of the spine and the strengthening of the body. It also relaxes muscle tension, overcomes fears, increases self-esteem, improves our reflexes, our balance and flexibility, acts anti-aging and above all, entertains us</p>
+                        <p id="i18nAerial4">At Aerial Yoga you will combine yoga, fun and acrobatics. Furthermore, with Aerial Pilates you will see a variation of the classical pilates repertoire in and out of the hammock</p>
+                        <p id="i18nAerial5">We need to emphasize that this type of exercise is aimed at everyone regardless of age and can be started without any prior knowledge. It is contraindicated in people with hypertension, glaucoma, as well as people who have recently undergone surgery</p>
+                        <p id="i18nAerial6">Don't hesitate, learn to overcome your fear and let yourself feel the beauty and freedom that swing offers</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="page-footer">
+        <div class="footer-copyright">
+            <div class="container">Created by Catis</div>
+        </div>
+    </footer>
+
+    <!--JavaScript at end of body for optimized loading-->
+    <script type="text/javascript" src="js/materialize.js"></script>
+    <script type="text/javascript" src="js/catis.js"></script>
+</body>
+
+</html>
