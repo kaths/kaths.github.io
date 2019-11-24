@@ -127,18 +127,18 @@
                     </div>
                 </div>
                 <div class="row">
-                    <form id="communicationForm" class="col s12 m8 l8">
+                    <form id="communicationForm" action="#" target="_blank" class="col s12 m8 l8">
                         <div class="row">
                             <div class="input-field col s12 m8 l8">
                                 <i class="material-icons prefix">account_circle</i>
-                                <input id="i18nName" type="text" class="validate">
+                                <input id="contactName" type="text" class="validate">
                                 <label for="i18nName">Name</label>
                             </div>
                         </div>
                         <div class="row">
                             <div class="input-field col s12 m8 l8">
                                 <i class="material-icons prefix">email</i>
-                                <input id="email" type="email" class="validate">
+                                <input name="email" id="email" type="email" class="validate">
                                 <label for="email">Email</label>
                                 <span class="helper-text" data-error="Invalid e-mail"></span>
                             </div>
@@ -146,13 +146,13 @@
                         <div class="row">
                             <div class="input-field col s12 m8 l8">
                                 <i class="material-icons prefix">mode_edit</i>
-                                <textarea id="icon_prefix2" class="materialize-textarea"></textarea>
-                                <label for="icon_prefix2">Message</label>
+                                <textarea name="message" id="message" class="materialize-textarea"></textarea>
+                                <label for="message">Message</label>
                             </div>
                         </div>
                         <div class="row">
                             <div class="input-field col s12 m8 l8">
-                                <a href="#" onclick="document.getElementById('communicationForm').submit();">
+                                <a href="#" onclick="sendRequest()">
                                     <span id="i18nSend">Send</span>
                                 </a>
                             </div>
@@ -171,6 +171,7 @@
 
     <!--JavaScript at end of body for optimized loading-->
     <script type="text/javascript" src="js/materialize.js"></script>
+    <script type="text/javascript" src="js/smptp.js"></script>
     <script type="text/javascript" src="js/catis.js"></script>
     <script>
 
@@ -199,8 +200,23 @@
 
         // L.marker([35.19, 25.71], { icon: catisIcon }).addTo(map);
         L.marker([35.19, 25.71]).addTo(map).bindPopup("Catis Yoga<br>& Pilates").openPopup();
+
+        function sendRequest() {
+          const subject = 'Contact request from ' + document.getElementById('contactName').value;
+          const contactEmail = document.getElementById('email').value;
+          const messageBody = document.getElementById('message').value;
+
+          Email.send({
+            SecureToken : "a56bc5db-878d-43d7-a865-d35fef174b8e",
+            To : 'catisyoga@gmail.com',
+            From : contactEmail,
+            Subject : subject,
+            Body : messageBody
+          }).then(
+            message => alert(message)
+          );
+        }
     </script>
 </body>
 
 </html>
-
