@@ -116,13 +116,13 @@
                     <div class="col s12 m8 l6 xl6">
                         <div id="map"></div>
                     </div>
-                    <div class="col s12 m4 l6 xl6 right-align">
+                    <div class="col s12 m6 l5 xl4 right-align">
                         <address>
-                            <span id="i18nAddress">Skordylon 4</span><br>
-                            <span id="i18nPostcode">73131 Agios Nikoalos</span><br>
-                            <a href="mailto:info@catisyoga.gr"><i class="material-icons prefix">email</i><span> info ΑΤ catisyoga gr</span></a><br>
+                            <br><br><span id="i18nAddress">Dimokratias 73</span><br><br>
+                            72100, <span id="i18nPostcode">Agios Nikoalos</span><br><br>
+                            <a href="mailto:catistudio.info@gmail.gr"><i class="material-icons prefix">email</i><span> catistudio.info ΑΤ gmail</span></a><br><br>
                             
-                            <a href="tel:+302114553800"><i class="material-icons prefix">telephone</i><span>2114553800</span></a>
+                            <a href="tel:+302114553800"><i class="material-icons">phone</i> 2114553800</a>
                         </address>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
                         <div class="row">
                             <div class="input-field col s12 m8 l8">
                                 <i class="material-icons prefix">account_circle</i>
-                                <input id="contactName" type="text" class="validate">
+                                <input id="contactName" type="text">
                                 <label for="i18nName">Name</label>
                             </div>
                         </div>
@@ -171,12 +171,11 @@
 
     <!--JavaScript at end of body for optimized loading-->
     <script type="text/javascript" src="js/materialize.js"></script>
-    <script type="text/javascript" src="js/smptp.js"></script>
     <script type="text/javascript" src="js/catis.js"></script>
     <script>
 
         var map = L.map('map', {
-            center: [35.19, 25.71],
+            center: [35.191591, 25.713467],
             zoom: 16,
             gestureHandling: true
         });
@@ -199,23 +198,7 @@
         var catisIcon = new MarkerIcon({ iconUrl: '../leaflet/images/marker-icon.png' });
 
         // L.marker([35.19, 25.71], { icon: catisIcon }).addTo(map);
-        L.marker([35.19, 25.71]).addTo(map).bindPopup("Catis Yoga<br>& Pilates").openPopup();
-
-        function sendRequest() {
-          const subject = 'Contact request from ' + document.getElementById('contactName').value;
-          const contactEmail = document.getElementById('email').value;
-          const messageBody = document.getElementById('message').value;
-
-          Email.send({
-            SecureToken : "a56bc5db-878d-43d7-a865-d35fef174b8e",
-            To : 'catisyoga@gmail.com',
-            From : contactEmail,
-            Subject : subject,
-            Body : messageBody
-          }).then(
-            message => alert(message)
-          );
-        }
+        L.marker([35.191591, 25.713467]).addTo(map).bindPopup("catistudio").openPopup();
     </script>
 </body>
 
