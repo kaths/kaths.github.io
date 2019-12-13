@@ -4,7 +4,7 @@ body {
   min-height: 100vh;
   flex-direction: column;
   color: #3E3E3E;
-  background-color: lightgrey;
+  background-color: #ededed;
 }
 
 main {

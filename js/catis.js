@@ -64,6 +64,23 @@ function setLanguage(language) {
   updateTags();
 }
 
+function sendRequest() {
+  const contactForm = document.getElementById('communicationForm');
+  const contactFormData = new FormData(contactForm);
+  const data = new URLSearchParams(contactFormData);
+
+  fetch('/contactForm.php', {
+      method: 'post',
+      body: data,
+  })
+
+  M.toast({
+    html: 'Thank you, we will contact you shortly.',
+    completeCallback: function(){document.getElementById('communicationForm').reset()}
+  });
+
+}
+
 // mobile collapse menu button
 document.addEventListener('DOMContentLoaded', function() {
   var elems = document.querySelectorAll('.sidenav');
